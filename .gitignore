@@ -1,5 +1,7 @@
-*.zip
-Webscope*
+data/
+save/records
+*.out
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
